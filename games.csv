@@ -27,6 +27,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 1;othello;Arcade/othello.png;Arcade/othello.hex;;
 1;pactastic;Arcade/pactastic.png;Arcade/pactastic.hex;;
 1;Paqman;Arcade/Paqman.png;Arcade/Paqman.hex;;
+1;Parachute;Arcade/parachute.png;Arcade/parachute.hex;;
 1;Pipes;Arcade/Pipes.png;Arcade/Pipes.hex;;
 1;Pong;Arcade/Pong.png;Arcade/Pong-on-paddle.hex;;
 1;sequencer;Arcade/sequencer.png;Arcade/sequencer.hex;;
@@ -71,7 +72,16 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;BreakoutOnPaddle;PaddleGames/BreakOutOnPaddle.png;PaddleGames/BreakOutOnPaddle.hex;
 9;PicovadersOnPaddle;PaddleGames/PicovadersOnPaddle.png;PaddleGames/PicovadersOnPaddle.hex;;
 9;PaddleTest;PaddleGames/PaddleTest.png;PaddleGames/PaddleTest.hex;;
-10;Demo & Test;demos/demotest.png;;;
-10;Hot butter;demos/HotButter_AB.png;demos/HotButter_AB.hex;;
-10;HardwareTest;demos/HardwareTest.png;demos/HardwareTest.hex;;
-10;PaddleTest;PaddleGames/PaddleTest.png;PaddleGames/PaddleTest.hex;;
+10;2019 games title;2019/title.png;;;
+10;abSynth;2019/abSynth.png;2019/abSynth.hex;;
+10;BrianduTrain;2019/BrianduTrain.png;2019/BrianduTrain.hex;;
+10;JunoFirst;2019/JunoFirst.png;2019/JunoFirst.hex;;
+10;kong;2019/kong.png;2019/kong.hex;;
+10;MicroTank;2019/MicroTank.png;2019/MicroTank.hex;;
+10;Nineteen44;2019/Nineteen44.png;2019/Nineteen44.hex;;
+10;TurtleBridge;2019/TurtleBridge.png;2019/TurtleBridge.hex;;
+11;Demo & Test;demos/demotest.png;;;
+11;Flashcart test;demos/flashcart-test/flashcart-test-title.png;demos/flashcart-test/flashcart-test.hex;demos/flashcart-test/badapple-frames.bin;
+11;Hot butter;demos/HotButter_AB.png;demos/HotButter_AB.hex;;
+11;HardwareTest;demos/HardwareTest.png;demos/HardwareTest.hex;;
+11;PaddleTest;PaddleGames/PaddleTest.png;PaddleGames/PaddleTest.hex;;
