@@ -11,7 +11,7 @@ This is a Credit Card arduboy that made perf boards and is smaller than half  of
 Demonstration video.
 https://youtu.be/kwJh4bO8yv4
 
-[![Arudboy%20Video](youtube2.JPG)](https://youtu.be/kwJh4bO8yv4)
+[![Arudboy%20Video](youtube2.jpg)](https://youtu.be/kwJh4bO8yv4)
 
 
 Parts:
