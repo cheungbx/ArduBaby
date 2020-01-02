@@ -27,9 +27,7 @@ The battery protection board builtin to the LIPO Battery will avoid over chargin
 To allow the board to be powerd off during charging, do not solder the EN pin of the LDO regulator when replacing it.
 Leave it hanging there to connect to a switch that will select to connect to Ground (turn off) or to Raw (5V for turn on).
 To use the serial flash for game loading, the Cathy 3K boot loader must be burnt to the Pro Micro using USBasp.
-![picture1](creditcardadruboy.JPG)
-![picture2](creditcardadruboy1.JPG) 
-![picture3](back.JPG)
+
 Credits and References to original authors of Arduboy and Flashcart:
  
 1. Original Arduboy production schametics:  
