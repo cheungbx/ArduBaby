@@ -25,6 +25,7 @@ Replace the 5V LDO regulator with a 3.6V or 4.2V one, or to run the risk of dama
 A 3.7-4.2V LIPO battery is connected to the RAW pin of the Arduino Pro Micro (which is sourced from the USB  port) to supply the power.
 The LIPO battery is also charged by the 5V output from the Raw Pin when connected to the USB port of the computer or charger.
 The battery protection board builtin to the LIPO Battery will avoid over charging.
+Warning - please test the battery protection circuit on the LIPO battery first. If the battery protection circuit fails, it could cause a fire or overheat and burn your device.
 To allow the board to be powerd off during charging, do not solder the EN pin of the LDO regulator when replacing it.
 Leave it hanging there to connect to a switch that will select to connect to Ground (turn off) or to Raw (5V for turn on).
 To use the serial flash for game loading, the Cathy 3K boot loader must be burnt to the Pro Micro using USBasp.
